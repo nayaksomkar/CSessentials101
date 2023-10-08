@@ -27,7 +27,7 @@
 * The repository is a good resource for anyone who wants to learn about computer science, regardless of their prior experience.
 
 ### Here is a list of all the fields of computer science, in alphabetical order:
-* Algorithms and data structures
+* [Algorithms and data structures](https://github.com/nayaksomkar/CSessentials101/tree/main/DSA)
 * Artificial intelligence
 * Bioinformatics
 * Computational science
