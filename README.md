@@ -16,6 +16,12 @@
 
 ### Contributing to CSessentials101
 * If you have any PDFs that you would like to contribute to CSessentials101, please feel free to open a pull request.
+* Send us an email at 📧 nayakomkar.contact+github.CSessentials101@googlemail.com for further queries.
 * We welcome contributions from all members of the community.
 
-
+### Why 101?
+* The number 101 is often used to signify introductory or foundational material.
+* It is a common naming convention for introductory courses in a variety of subjects, including computer science.
+* Computers work in binary, which means that they use two states to represent all data: 0 and 1.
+* In the context of the GitHub repository CSessentials101, the number 101 indicates that the repository contains essential computer science concepts that are appropriate for beginners.
+* The repository is a good resource for anyone who wants to learn about computer science, regardless of their prior experience.
