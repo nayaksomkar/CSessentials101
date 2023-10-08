@@ -38,9 +38,11 @@
 * Computer vision
 * Databases
 * Data mining
+
 * [Data structures and Algorithms](https://github.com/nayaksomkar/CSessentials101/tree/main/DSA)
   * [Data Structure and Algorithm using C](https://github.com/nayaksomkar/CSessentials101/tree/main/DSA/DSA%20in%20C)
    * [Data Structure and Algorithm using C++](https://github.com/nayaksomkar/CSessentials101/tree/main/DSA/DSA%20with%20C%2B%2B)
+
 * Distributed computing
 * Embedded systems
 * Formal methods
