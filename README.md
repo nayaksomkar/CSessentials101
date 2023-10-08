@@ -39,7 +39,7 @@
 * Databases
 * Data mining
 
-* #### [Data structures and Algorithms](https://github.com/nayaksomkar/CSessentials101/tree/main/Data%20structures%20and%20Algorithm)
+#### [Data structures and Algorithms](https://github.com/nayaksomkar/CSessentials101/tree/main/Data%20structures%20and%20Algorithm)
   * [Data Structure and Algorithm using C](https://github.com/nayaksomkar/CSessentials101/tree/main/Data%20structures%20and%20Algorithm/Data%20structures%20and%20Algorithm%20using%20C)
    * [Data Structure and Algorithm using C++](https://github.com/nayaksomkar/CSessentials101/tree/main/Data%20structures%20and%20Algorithm/Data%20structures%20and%20Algorithm%20using%20C%2B%2B)
 
@@ -52,7 +52,9 @@
 * Machine learning
 * Natural language processing
 * Operating systems
-* Programming languages
+#### [Programming languages](https://github.com/nayaksomkar/CSessentials101/tree/main/Programming%20Languages)
+* [Java](https://github.com/nayaksomkar/CSessentials101/tree/main/Programming%20Languages/Java)
+
 * Robotics
 * Software engineering
 * Theoretical computer science
