@@ -25,3 +25,31 @@
 * Computers work in binary, which means that they use two states to represent all data: 0 and 1.
 * In the context of the GitHub repository CSessentials101, the number 101 indicates that the repository contains essential computer science concepts that are appropriate for beginners.
 * The repository is a good resource for anyone who wants to learn about computer science, regardless of their prior experience.
+
+### Here is a list of all the fields of computer science, in alphabetical order:
+* Algorithms and data structures
+* Artificial intelligence
+* Bioinformatics
+* Computational science
+* Computer architecture
+* Computer graphics
+* Computer networks
+* Computer security
+* Computer systems
+* Computer vision
+* Databases
+* Data mining
+* Distributed computing
+* Embedded systems
+* Formal methods
+* Game development
+* Human-computer interaction
+* Information retrieval
+* Machine learning
+* Natural language processing
+* Operating systems
+* Programming languages
+* Robotics
+* Software engineering
+* Theoretical computer science
+
