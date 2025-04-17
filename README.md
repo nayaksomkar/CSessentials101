@@ -16,7 +16,7 @@
 
 ### Contributing to CSessentials101
 * If you have any PDFs that you would like to contribute to CSessentials101, please feel free to open a pull request.
-* Send us an email at 📧 nayakomkar.contact+github.CSessentials101@googlemail.com for further queries.
+* Send us an email at 📧 nayakomkar@outlook.in for further queries.
 * We welcome contributions from all members of the community.
 
 ### Why 101?
